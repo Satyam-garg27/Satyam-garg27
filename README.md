@@ -1,11 +1,11 @@
 # 👋 Satyam Garg
 
-**<p align="center">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Problem+Solver;AI%2FML+Explorer;Curious+about+how+things+work"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Problem+Solver;AI%2FML+Explorer;Curious+about+how+things+work"
     alt="Typing SVG"
   />
-</p>**
+</p>
 
 <p align="center">
   <a href="https://satyam-garg27.github.io/Portfolio/">
