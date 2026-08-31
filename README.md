@@ -107,27 +107,7 @@ Backend & Database
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="55" /> </p>
 Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" /> </p>
-🧩 Problem Solving
 
-I believe DSA is more than solving problems.
-
-It's about recognizing patterns, thinking logically and learning how to approach problems you've never seen before.
-
-        Problem
-           ↓
-     Understand It
-           ↓
-    Find the Pattern
-           ↓
-     Design Solution
-           ↓
-      Optimize It
-           ↓
-       Implement
-           ↓
-         Learn
-
-I'm consistently practicing Data Structures & Algorithms on LeetCode.
 
 🧠 LeetCode
 <p align="center"> <img src="https://leetcard.jacoblin.cool/SatyamGARG_27?theme=dark&font=baloo&ext=heatmap" alt="Satyam Garg LeetCode Stats" /> </p> <p align="center"> <a href="https://leetcode.com/u/SatyamGARG_27/"> <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
@@ -135,8 +115,7 @@ I'm consistently practicing Data Structures & Algorithms on LeetCode.
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyam-garg27&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam-garg27&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam-garg27&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-garg27&theme=tokyonight&hide_border=true" /> </p>
 📈 GitHub Contribution Activity
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-garg27&theme=tokyonight" alt="GitHub Contribution Activity" /> </p>
-🐍 Contribution Snake
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> <img alt="GitHub contribution snake" src="github-snake.svg" /> </picture> </p>
+
 📚 Currently Learning
 <p align="center"> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=thealgorithms&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/AI%20%2F%20ML-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" /> </p>
 🎯 Developer Philosophy
