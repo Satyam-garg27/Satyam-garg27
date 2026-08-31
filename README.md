@@ -175,6 +175,7 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyam-garg27&theme=tokyonight" height="180" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam-garg27&theme=tokyonight" height="180" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam-garg27&theme=tokyonight" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-garg27&theme=tokyonight&hide_border=true" height="180" /> </p>
 
 📚 Currently Learning
 <p align="center"> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=thealgorithms&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/AI%20%2F%20ML-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" /> </p>
