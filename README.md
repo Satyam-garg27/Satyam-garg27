@@ -24,7 +24,7 @@ I'm a developer who enjoys **figuring out how things work and turning ideas into
 
 I like exploring different areas of technology instead of limiting myself to one stack — from building full-stack applications to experimenting with AI and constantly improving my problem-solving skills.
 
-```text
+text
 Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 🚀 What I'm Currently Doing
 🔨 Building full-stack applications
@@ -194,7 +194,7 @@ I'm a developer who enjoys **figuring out how things work and turning ideas into
 
 I like exploring different areas of technology — from building full-stack applications to experimenting with AI and constantly improving my problem-solving skills.
 
-```text
+text
 Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 🚀 What I'm Up To
 💻 Building and experimenting with Full Stack Development
@@ -286,22 +286,7 @@ I want to understand why it works, how it works, and what I can build with it.
 💭 Keep asking questions.
 🔨 Keep building.
 🚀 Keep improving.
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p> ```
-One thing you still need to change
-
-In 3 places, replace:
-
-YOUR_GITHUB_USERNAME
-
-with your actual GitHub username.
-
-I don't want to guess it from your other links because your GitHub username isn't included in the URLs you sent.
-
-Once you replace that, the README is ready to commit.
-
-Satyam-garg27
-
-Perfect — your GitHub username is Satyam-garg27. I've replaced the placeholders, so this is the final ready-to-paste version.
+</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p> 
 
 # Hey, I'm Satyam 👋
 
@@ -329,7 +314,7 @@ I'm a developer who enjoys **figuring out how things work and turning ideas into
 
 I like exploring different areas of technology — from building full-stack applications to experimenting with AI and constantly improving my problem-solving skills.
 
-```text
+text
 Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 🚀 What I'm Up To
 💻 Building and experimenting with Full Stack Development
@@ -421,4 +406,4 @@ I want to understand why it works, how it works, and what I can build with it.
 💭 Keep asking questions.
 🔨 Keep building.
 🚀 Keep improving.
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p> ```
+</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p> 
