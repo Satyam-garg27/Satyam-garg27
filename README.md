@@ -91,51 +91,44 @@ I explore full-stack development, AI/ML and problem solving while continuously b
 
 Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
-⚡ Tech Stack
-💻 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" height="55" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql" height="55" /> </p>
-🎨 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" height="55" /> </p>
+## **⚡ Tech Stack**
 
-React concepts:
-useState useReducer useEffect Custom Hooks useMemo useCallback React.memo
+**Languages**
 
-⚙️ Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express" height="55" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" height="55" />
+</p>
 
-Backend:
-REST APIs Authentication JWT Middleware MVC Architecture
+**Frontend**
 
-🗄️ Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="55" /> </p>
-🤖 AI / Machine Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=python" height="55" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" height="55" />
+</p>
 
-Machine Learning NLP Hugging Face AI Applications
+**Backend**
 
-🛠️ Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" /> </p>
-🧩 Problem Solving
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="55" />
+</p>
 
-I believe DSA is more than solving problems.
+**Database**
 
-It's about recognizing patterns, thinking logically and learning how to approach problems you've never seen before.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="55" />
+</p>
 
-        Problem
-           ↓
-     Understand It
-           ↓
-    Find the Pattern
-           ↓
-     Design Solution
-           ↓
-      Optimize It
-           ↓
-       Implement
-           ↓
-         Learn
+**Tools**
 
-I'm consistently practicing Data Structures & Algorithms on LeetCode.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,blender" height="55" />
+</p>
+
+**Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel" height="55" />
+</p>
+
 
 🧠 LeetCode
 <p align="center"> <img src="https://leetcard.jacoblin.cool/SatyamGARG_27?theme=dark&font=baloo&ext=heatmap" alt="Satyam Garg LeetCode Statistics" /> </p> <p align="center"> <a href="https://leetcode.com/u/SatyamGARG_27/"> <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
