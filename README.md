@@ -1,7 +1,7 @@
 # Hey, I'm Satyam 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Satyam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Satyam Garg&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
@@ -24,7 +24,6 @@ I'm a developer who enjoys **figuring out how things work and turning ideas into
 
 I like exploring different areas of technology — from building full-stack applications to experimenting with AI and constantly improving my problem-solving skills.
 
-text
 Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 🚀 What I'm Up To
 💻 Building and experimenting with Full Stack Development
@@ -66,7 +65,7 @@ Focus: HTML CSS JavaScript
 
 A full-stack project exploring authentication, APIs, databases, and frontend/backend integration.
 
-Focus: React Node.js Express MongoDB
+Focus: React Node.js Express.js MongoDB
 
 🧩 Problem Solving
 
@@ -113,7 +112,9 @@ I want to understand why it works, how it works, and what I can build with it.
 🌐 Connect With Me
 <p align="center"> <a href="https://satyam-garg27.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/satyam-garg27/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/SatyamGARG_27/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
 <p align="center">
-💭 Keep asking questions.
-🔨 Keep building.
-🚀 Keep improving.
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p> 
+
+<strong>💭 Keep asking questions.</strong><br>
+<strong>🔨 Keep building.</strong><br>
+<strong>🚀 Keep improving.</strong>
+
+</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/> </p>
