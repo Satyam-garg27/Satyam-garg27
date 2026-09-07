@@ -35,13 +35,13 @@ Personal developer portfolio showcasing my projects, technical interests, skills
 
 `HTML` `CSS` `JavaScript`
 
-**Links:** [Live Demo](https://satyam-garg27.github.io/Portfolio/) · [GitHub](https://github.com/Satyam-garg27/Portfolio)
+**Links:** [Live](https://satyam-garg27.github.io/Portfolio/) · [GitHub](https://github.com/Satyam-garg27/Portfolio)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📰 [Fake News Detection](YOUR_FAKE_NEWS_GITHUB_URL)
+### 📰 [Fake News Detection](https://github.com/Satyam-garg27/Fake-News-Detector)
 
 A machine-learning project focused on identifying and classifying potentially misleading news content using natural language processing and machine learning techniques.
 
@@ -49,7 +49,7 @@ A machine-learning project focused on identifying and classifying potentially mi
 
 `Python` `Machine Learning` `NLP`
 
-**Links:** [Live Demo](https://fake-news-detector-satyam27.streamlit.app/) · [GitHub](https://github.com/Satyam-garg27/Fake-News-Detector)
+**Links:** [Live](https://fake-news-detector-satyam27.streamlit.app/) · [GitHub](https://github.com/Satyam-garg27/Fake-News-Detector)
 
 </td>
 
@@ -67,31 +67,13 @@ A movie discovery web application powered by the TMDB API. Explore trending movi
 
 `HTML` `CSS` `JavaScript` `TMDB API`
 
-**Links:** [Live Demo](https://cine-verse-peach.vercel.app/) · [GitHub](https://github.com/Satyam-garg27/CineVerse)
+**Links:** [Live](https://cine-verse-peach.vercel.app/) · [GitHub](https://github.com/Satyam-garg27/CineVerse)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌌 [SpaceDrive](YOUR_SPACEDRIVE_GITHUB_URL)
-
-An interactive web experience exploring the Solar System, built while experimenting with frontend development, animations, and interactive web experiences.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-**Links:** [Live Demo](YOUR_SPACEDRIVE_LIVE_URL) · [GitHub](YOUR_SPACEDRIVE_GITHUB_URL)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 [AURABOT](YOUR_AURABOT_GITHUB_URL)
+### 🤖 [AURABOT](https://github.com/Satyam-garg27/AuraBot)
 
 An AI-powered conversational project exploring modern AI models, natural language processing, and Hugging Face technologies.
 
@@ -99,9 +81,27 @@ An AI-powered conversational project exploring modern AI models, natural languag
 
 `Python` `AI/ML` `NLP` `Hugging Face`
 
-**Links:** [Live Demo](YOUR_AURABOT_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/SpaceDrive)
+**Links:** [Live](YOUR_AURABOT_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/AuraBot)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🌌 [SpaceDrive](https://github.com/Satyam-garg27/SpaceDrive)
+
+An interactive web experience exploring the Solar System, built while experimenting with frontend development, animations, and interactive web experiences.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+**Links:** [Live](YOUR_SPACEDRIVE_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/SpaceDrive)
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -113,7 +113,7 @@ A full-stack movie platform exploring authentication, APIs, user management, mov
 
 `React` `Node.js` `Express.js` `MongoDB`
 
-**Links:** [Live Demo](YOUR_SHOWVERSE_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/Showverse)
+**Links:** [Live](YOUR_SHOWVERSE_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/Showverse)
 
 </td>
 
