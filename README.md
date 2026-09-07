@@ -205,20 +205,15 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
 📚 Currently Learning
 <p align="center"> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=thealgorithms&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/AI%20%2F%20ML-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" /> </p>
-🎯 Developer Philosophy
 
-Don't just learn a technology. Build something with it.
-
-I don't want to simply know what something does.
-
-I want to understand why it works, how it works, and what I can build with it.
 
 🌐 Connect With Me
 <p align="center"> <a href="https://satyam-garg27.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/satyam-garg27/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/SatyamGARG_27/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
 <p align="center">
 
-<strong>💭 Keep asking questions.</strong><br>
-<strong>🔨 Keep building.</strong><br>
-<strong>🚀 Keep improving.</strong>
+<span style="font-size: 18px;">
+<strong>“You miss 100% of the shots you don’t take. — Wayne Gretzky” — Michael Scott</strong>
+</span>
+
 
 </p>
