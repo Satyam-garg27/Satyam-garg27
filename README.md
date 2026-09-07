@@ -26,7 +26,7 @@
 
 <td width="50%" valign="top">
 
-### 🌐 [My Portfolio](https://github.com/Satyam-garg27/Portfolio) · [Live](https://satyam-garg27.github.io/Portfolio/)
+### 🌐 [My Portfolio](https://github.com/Satyam-garg27/Portfolio) · [Live](https://satyam-portfolio-mocha-zeta.vercel.app/)
 
 Personal developer portfolio showcasing my projects, technical interests, skills, and development journey.
 
