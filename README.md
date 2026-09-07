@@ -20,33 +20,36 @@
 </p>
 
 ---
-
-## **🚀 Featured Projects**
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 AURABOT
+### 🌐 [My Portfolio](https://github.com/Satyam-garg27/Portfolio)
 
-An AI-powered conversational project exploring modern AI models and Hugging Face.
+Personal developer portfolio showcasing my projects, technical interests, skills, and development journey.
 
 **Tech**
 
-`Python` `AI/ML` `NLP` `Hugging Face`
+`HTML` `CSS` `JavaScript`
+
+**Links:** [Live Demo](https://satyam-garg27.github.io/Portfolio/) · [GitHub](https://github.com/Satyam-garg27/Portfolio)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📰 Fake News Detection
+### 📰 [Fake News Detection](YOUR_FAKE_NEWS_GITHUB_URL)
 
-A machine-learning project focused on identifying and classifying potentially misleading news content.
+A machine-learning project focused on identifying and classifying potentially misleading news content using natural language processing and machine learning techniques.
 
 **Tech**
 
 `Python` `Machine Learning` `NLP`
+
+**Links:** [Live Demo](https://fake-news-detector-satyam27.streamlit.app/) · [GitHub](https://github.com/Satyam-garg27/Fake-News-Detector)
 
 </td>
 
@@ -56,25 +59,61 @@ A machine-learning project focused on identifying and classifying potentially mi
 
 <td width="50%" valign="top">
 
-### 🎬 ShowVerse
+### 🎬 [CineVerse](https://github.com/Satyam-garg27/CineVerse)
 
-A full-stack application exploring authentication, APIs, user management, movie management and database integration.
+A movie discovery web application powered by the TMDB API. Explore trending movies, search for films, view detailed information, watch trailers, and save favorites.
 
 **Tech**
 
-`React` `Node.js` `Express.js` `MongoDB`
+`HTML` `CSS` `JavaScript` `TMDB API`
+
+**Links:** [Live Demo](https://cine-verse-peach.vercel.app/) · [GitHub](https://github.com/Satyam-garg27/CineVerse)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌌 SpaceDrive
+### 🌌 [SpaceDrive](YOUR_SPACEDRIVE_GITHUB_URL)
 
-An interactive web experience exploring the Solar System, currently evolving toward a more scalable architecture.
+An interactive web experience exploring the Solar System, built while experimenting with frontend development, animations, and interactive web experiences.
 
 **Tech**
 
 `HTML` `CSS` `JavaScript`
+
+**Links:** [Live Demo](YOUR_SPACEDRIVE_LIVE_URL) · [GitHub](YOUR_SPACEDRIVE_GITHUB_URL)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 [AURABOT](YOUR_AURABOT_GITHUB_URL)
+
+An AI-powered conversational project exploring modern AI models, natural language processing, and Hugging Face technologies.
+
+**Tech**
+
+`Python` `AI/ML` `NLP` `Hugging Face`
+
+**Links:** [Live Demo](YOUR_AURABOT_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/SpaceDrive)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 [ShowVerse](https://github.com/Satyam-garg27/Showverse)
+
+A full-stack movie platform exploring authentication, APIs, user management, movie management, favorites, watchlists, and database integration.
+
+**Tech**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+**Links:** [Live Demo](YOUR_SHOWVERSE_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/Showverse)
 
 </td>
 
