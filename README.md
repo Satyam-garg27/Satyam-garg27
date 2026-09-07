@@ -19,7 +19,6 @@
   </a>
 </p>
 
----
 ## 🚀 Featured Projects
 
 <table>
@@ -27,7 +26,7 @@
 
 <td width="50%" valign="top">
 
-### 🌐 [My Portfolio](https://github.com/Satyam-garg27/Portfolio)
+### 🌐 [My Portfolio](https://github.com/Satyam-garg27/Portfolio) · [Live](https://satyam-garg27.github.io/Portfolio/)
 
 Personal developer portfolio showcasing my projects, technical interests, skills, and development journey.
 
@@ -35,13 +34,11 @@ Personal developer portfolio showcasing my projects, technical interests, skills
 
 `HTML` `CSS` `JavaScript`
 
-**Links:** [Live](https://satyam-garg27.github.io/Portfolio/) · [GitHub](https://github.com/Satyam-garg27/Portfolio)
-
 </td>
 
 <td width="50%" valign="top">
 
-### 📰 [Fake News Detection](https://github.com/Satyam-garg27/Fake-News-Detector)
+### 📰 [Fake News Detection](https://github.com/Satyam-garg27/Fake-News-Detector) · [Live](https://fake-news-detector-satyam27.streamlit.app/)
 
 A machine-learning project focused on identifying and classifying potentially misleading news content using natural language processing and machine learning techniques.
 
@@ -49,8 +46,6 @@ A machine-learning project focused on identifying and classifying potentially mi
 
 `Python` `Machine Learning` `NLP`
 
-**Links:** [Live](https://fake-news-detector-satyam27.streamlit.app/) · [GitHub](https://github.com/Satyam-garg27/Fake-News-Detector)
-
 </td>
 
 </tr>
@@ -59,7 +54,7 @@ A machine-learning project focused on identifying and classifying potentially mi
 
 <td width="50%" valign="top">
 
-### 🎬 [CineVerse](https://github.com/Satyam-garg27/CineVerse)
+### 🎬 [CineVerse](https://github.com/Satyam-garg27/CineVerse) · [Live](https://cine-verse-peach.vercel.app/)
 
 A movie discovery web application powered by the TMDB API. Explore trending movies, search for films, view detailed information, watch trailers, and save favorites.
 
@@ -67,35 +62,17 @@ A movie discovery web application powered by the TMDB API. Explore trending movi
 
 `HTML` `CSS` `JavaScript` `TMDB API`
 
-**Links:** [Live](https://cine-verse-peach.vercel.app/) · [GitHub](https://github.com/Satyam-garg27/CineVerse)
-
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 [AURABOT](https://github.com/Satyam-garg27/AuraBot)
+### 🤖 [AURABOT](https://github.com/Satyam-garg27/AuraBot) · [Live](YOUR_AURABOT_LIVE_URL)
 
 An AI-powered conversational project exploring modern AI models, natural language processing, and Hugging Face technologies.
 
 **Tech**
 
 `Python` `AI/ML` `NLP` `Hugging Face`
-
-**Links:** [Live](YOUR_AURABOT_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/AuraBot)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌌 [SpaceDrive](https://github.com/Satyam-garg27/SpaceDrive)
-
-An interactive web experience exploring the Solar System, built while experimenting with frontend development, animations, and interactive web experiences.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-**Links:** [Live](YOUR_SPACEDRIVE_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/SpaceDrive)
 
 </td>
 
@@ -105,15 +82,25 @@ An interactive web experience exploring the Solar System, built while experiment
 
 <td width="50%" valign="top">
 
-### 🎬 [ShowVerse](https://github.com/Satyam-garg27/Showverse)
+### 🌌 [SpaceDrive](https://github.com/Satyam-garg27/SpaceDrive) · [Live](YOUR_SPACEDRIVE_LIVE_URL)
+
+An interactive web experience exploring the Solar System, built while experimenting with frontend development, animations, and interactive web experiences.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 [ShowVerse](https://github.com/Satyam-garg27/Showverse) · [Live](YOUR_SHOWVERSE_LIVE_URL)
 
 A full-stack movie platform exploring authentication, APIs, user management, movie management, favorites, watchlists, and database integration.
 
 **Tech**
 
 `React` `Node.js` `Express.js` `MongoDB`
-
-**Links:** [Live](YOUR_SHOWVERSE_LIVE_URL) · [GitHub](https://github.com/Satyam-garg27/Showverse)
 
 </td>
 
