@@ -30,7 +30,6 @@
 
 Personal developer portfolio showcasing my projects, technical interests, skills, and development journey.
 
-**Tech**
 
 `HTML` `CSS` `JavaScript`
 
@@ -41,8 +40,6 @@ Personal developer portfolio showcasing my projects, technical interests, skills
 ### 📰 [Fake News Detection](https://github.com/Satyam-garg27/Fake-News-Detector) · [Live](https://fake-news-detector-satyam27.streamlit.app/)
 
 A machine-learning project focused on identifying and classifying potentially misleading news content using natural language processing and machine learning techniques.
-
-**Tech**
 
 `Python` `Machine Learning` `NLP`
 
@@ -58,7 +55,6 @@ A machine-learning project focused on identifying and classifying potentially mi
 
 A movie discovery web application powered by the TMDB API. Explore trending movies, search for films, view detailed information, watch trailers, and save favorites.
 
-**Tech**
 
 `HTML` `CSS` `JavaScript` `TMDB API`
 
@@ -70,7 +66,6 @@ A movie discovery web application powered by the TMDB API. Explore trending movi
 
 An AI-powered conversational project exploring modern AI models, natural language processing, and Hugging Face technologies.
 
-**Tech**
 
 `Python` `AI/ML` `NLP` `Hugging Face`
 
@@ -86,7 +81,6 @@ An AI-powered conversational project exploring modern AI models, natural languag
 
 An interactive web experience exploring the Solar System, built while experimenting with frontend development, animations, and interactive web experiences.
 
-**Tech**
 
 `HTML` `CSS` `JavaScript`
 
@@ -98,7 +92,6 @@ An interactive web experience exploring the Solar System, built while experiment
 
 A full-stack movie platform exploring authentication, APIs, user management, movie management, favorites, watchlists, and database integration.
 
-**Tech**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
