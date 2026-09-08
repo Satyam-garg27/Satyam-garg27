@@ -207,7 +207,7 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 <span style="font-size: 18px;">
 <strong>“You miss 100% of the shots you don’t take. — Wayne Gretzky” — Michael Scott</strong>
 </span>
-![Profile Views](https://komarev.com/ghpvc/?username=Satyam-garg27)
 
 
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Satyam-garg27&label=Profile%20Views&color=0e75b6&style=flat)
