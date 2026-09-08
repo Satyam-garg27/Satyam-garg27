@@ -210,4 +210,7 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
 
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Satyam-garg27&label=Profile%20Views&color=0e75b6&style=flat)
+<a href="https://github.com/Satyam-garg27">
+  <img src="https://komarev.com/ghpvc/?username=Satyam-garg27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</a>
+
