@@ -209,7 +209,7 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 <span style="font-size: 18px;">
 <strong>“You miss 100% of the shots you don’t take. — Wayne Gretzky” — Michael Scott</strong>
 </span>
-<p>Things..</p>
+<p>Things...</p>
 
 
 </p>
