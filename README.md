@@ -201,9 +201,11 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam-garg27&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-garg27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Satyam-garg27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
 </p>
+
 
 
 📚 Currently Learning
